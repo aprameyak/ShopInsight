@@ -23,8 +23,4 @@
 - **Data Analysis:** Python, Pandas  
 - **Visualization:** Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn  
-- **Environment:** Jupyter Notebook, GitHub
-
-## Live Notebook
-
-- **View Here:** [nbviewer.org](https://nbviewer.org/)
+- **Environment:** Jupyter Notebook
